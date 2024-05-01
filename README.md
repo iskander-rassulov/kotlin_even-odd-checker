@@ -10,11 +10,11 @@
 4. Посмотрите результат под кнопкой.
 
 ## Скриншоты
-![Input Screen]((https://github.com/iskander-rassulov/kotlin_even-odd-checker/assets/167358283/3308ef41-8e45-45aa-aa9b-57573e980181)
+![Input Screen](![Screenshot_1](https://github.com/iskander-rassulov/kotlin_even-odd-checker/assets/167358283/3ff06f36-b5db-4dec-b28a-40fadf7f3187)
 )
-![Even Number Result]((https://github.com/iskander-rassulov/kotlin_even-odd-checker/assets/167358283/f49f83e5-37fc-463d-9488-83a4c87457f9)
+![Even Number Result](![Screenshot_2](https://github.com/iskander-rassulov/kotlin_even-odd-checker/assets/167358283/9d651982-c6c2-45ab-852e-0accc5722b8b)
 )
-![Odd Number Result]((https://github.com/iskander-rassulov/kotlin_even-odd-checker/assets/167358283/686ceecd-64f5-46f6-acb5-fe42141efe1d)
+![Odd Number Result](![Screenshot_3](https://github.com/iskander-rassulov/kotlin_even-odd-checker/assets/167358283/7204bffc-81b0-4e58-a610-b50adcfe1dab)
 )
 
 ## Технологии
